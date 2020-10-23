@@ -1,0 +1,47 @@
+[
+	{
+		"code3": "VGB",
+		"z": 31,
+		"code": "VG"
+	},
+	{
+		"code3": "VIR",
+		"z": 108,
+		"code": "VI"
+	},
+	{
+		"code3": "VNM",
+		"z": 94569,
+		"code": "VN"
+	},
+	{
+		"code3": "VUT",
+		"z": 270,
+		"code": "VU"
+	},
+	{
+		"code3": "WSM",
+		"z": 195,
+		"code": "WS"
+	},
+	{
+		"code3": "YEM",
+		"z": 27584,
+		"code": "YE"
+	},
+	{
+		"code3": "ZAF",
+		"z": 56015,
+		"code": "ZA"
+	},
+	{
+		"code3": "ZMB",
+		"z": 16591,
+		"code": "ZM"
+	},
+	{
+		"code3": "ZWE",
+		"z": 16150,
+		"code": "ZW"
+	}
+]
